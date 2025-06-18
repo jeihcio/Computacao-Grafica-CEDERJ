@@ -8,7 +8,7 @@ A ferramenta é um APP que contém as questões antigas das provas do CEDERJ. A 
 
 # Ferramenta online
 
-* AP2: https://jeihcio.github.io/Computacao-Grafica-CEDER/AP2/Index.html
+* AP2: https://jeihcio.github.io/Computacao-Grafica-CEDERJ/AP2/Index.html
 * AP3: https://jeihcio.github.io/Computacao-Grafica-CEDERJ/AP3/Index.html
 
 # Questões
